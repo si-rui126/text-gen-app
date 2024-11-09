@@ -1,0 +1,9 @@
+datasets==3.1.0
+langdetect==1.0.9
+nltk==3.9.1
+pandas==2.2.3
+peft==0.13.2
+scikit_learn==1.4.1.post1
+streamlit==1.39.0
+torch==2.4.1
+transformers==4.46.0

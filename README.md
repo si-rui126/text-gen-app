@@ -16,6 +16,7 @@ I wanted practice fine-tuning a LLM and to better understand LLM architecture. B
 I experimented with a variety of datasets to narrow down the model's responses to my desired use case. I ran some prompts with base GPT2 and its responses had the following problems: repetitive and irrelevant. Initially, I used a combination of two datasets:
 * dataset of LinkedIn company profiles - to encourage self-marketing language
 * dataset of blog posts - to encourage a conversational and narrative language
+
 However, after training GPT2 with these datasets, I still thought the responses were inadequate. Eventually, I resorted to a more brute force-y by scraping websites with examples of elevator pitches for a custom dataset.
 
 #### Training

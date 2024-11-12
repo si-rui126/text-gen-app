@@ -136,5 +136,5 @@ github_url = "https://github.com/si-rui126"
 site_url = "https://si-rui126.github.io/"
 project_url = "https://github.com/si-rui126/text-gen-app"
 st.write("Enjoyed using this generator? Find me at: [LinkedIn](%s)" % linkedin_url + " | [Github](%s)" % github_url + " | [Personal Site](%s)" % site_url)
-st.write("Or visit this project's [GitHub page]" % linkedin_url)
+st.write("Or view this project page on [GitHub](%s)" % project_url)
 
